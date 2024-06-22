@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5000F30F-D01B-4FE4-BAAE-B9102683105B}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\karan\\desktop\\kafka-practice\\kafkaconsumer\\kafkaconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5000F30F-D01B-4FE4-BAAE-B9102683105B}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5000F30F-D01B-4FE4-BAAE-B9102683105B}|KafkaConsumer\\KafkaConsumer.csproj|c:\\users\\karan\\desktop\\kafka-practice\\kafkaconsumer\\kafkaconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5000F30F-D01B-4FE4-BAAE-B9102683105B}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaConsumer\\KafkaConsumer\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaConsumer\\appsettings.json",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaConsumer\\KafkaConsumer\\appsettings.json",
+              "RelativeToolTip": "KafkaConsumer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T13:27:04.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaConsumer\\KafkaConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaConsumer\\KafkaConsumer\\Program.cs",
+              "RelativeToolTip": "KafkaConsumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:26:44.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

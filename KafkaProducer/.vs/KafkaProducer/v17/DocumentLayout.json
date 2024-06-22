@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaProducer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C427C4-FE0F-4C10-B162-588E4341BF0A}|KafkaProducer\\KafkaProducer.csproj|c:\\users\\karan\\desktop\\kafka-practice\\kafkaproducer\\kafkaproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C427C4-FE0F-4C10-B162-588E4341BF0A}|KafkaProducer\\KafkaProducer.csproj|solutionrelative:kafkaproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C427C4-FE0F-4C10-B162-588E4341BF0A}|KafkaProducer\\KafkaProducer.csproj|c:\\users\\karan\\desktop\\kafka-practice\\kafkaproducer\\kafkaproducer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11C427C4-FE0F-4C10-B162-588E4341BF0A}|KafkaProducer\\KafkaProducer.csproj|solutionrelative:kafkaproducer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaProducer\\KafkaProducer\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaProducer\\appsettings.json",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaProducer\\KafkaProducer\\appsettings.json",
+              "RelativeToolTip": "KafkaProducer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T12:51:19.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaProducer\\KafkaProducer\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaProducer\\Program.cs",
+              "ToolTip": "C:\\Users\\KARAN\\Desktop\\Kafka-practice\\KafkaProducer\\KafkaProducer\\Program.cs",
+              "RelativeToolTip": "KafkaProducer\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:49:50.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
